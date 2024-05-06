@@ -55,7 +55,7 @@
 |[정수하<br>(팀원)](https://github.com/heyJSH)|<p align="center"><img src="https://avatars.githubusercontent.com/u/150403977?v=4" width="100"></p>|테이블 설계, ERD작성, 유즈케이스 작성<br>자재/제품 재고 조회, 품질관리|
 |[조다혜<br>(팀원)](https://github.com/ChoDaHye)|<p align="center"><img src="https://avatars.githubusercontent.com/u/151722511?v=4" width="100"></p>|테이블 설계, 샘플데이터작성, 유즈케이스 작성<br>제조계획지시, 제조수행지시, 공정정보관리|
 
-<br><br>
+<br>
 
 ## 📕 주요기능
 원목 가구를 생산/제조하는 업체에서 사용하는 MES 시스템 프로그램을 제공한다.
@@ -445,36 +445,36 @@
   </ul>
 </details>
 
-<br><br>
+<br>
 
 ## 🔧 아키텍처
 ####  * 서버 배포를 진행하지 않았음
 ![C_R-FURNITURE-아키텍처](https://github.com/jihyeon00/CNR_FURNITURE/assets/120089047/2e26b54e-86aa-4711-ad6d-11b6d36f420e)
-<br><br>
+<br>
 
 ## 🏗️ ERD
 DB와 ERD <br>
 ![ERD](https://github.com/jihyeon00/CNR_FURNITURE/assets/120089047/6e185a73-564b-4d12-ae31-2379761be4ab)
-<br><br>
+<br>
 
 ## ⚠️ 트러블 슈팅
-<br><br>
+<br>
 
 ## 📖 파일명 설명 및 개발일정
 [[📑 파일명 설명 및 개발일정]](https://docs.google.com/spreadsheets/d/1f2Vgb-qmd-GQKiG3kfBYp12KGKcHwL41/edit?usp=sharing&ouid=106247567413866015973&rtpof=true&sd=true)
 
-<br><br>
+<br>
 
 ## 📽️ 작동 영상
 [📹 작동 영상]()
 
-<br><br>
+<br>
 
 ## 🗃️ 발표자료
 [[📂 발표자료]](https://www.canva.com/design/DAGB09QYuLw/aAn0IDhyphJN4kNFbcFN7g/edit?utm_content=DAGB09QYuLw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-<br><br>
+<br>
 
 ## 📃 화면설계
 [[📑 Figma 확인하기]](https://www.figma.com/file/TJCIsPWBYpiGFq3VZo7aAL/Cozy%26Rest-FURNTIURE?type=design&node-id=12%3A29&mode=design&t=lBsTPDw3kZcSzh4i-1)
-<br><br>
+<br>
