@@ -460,17 +460,14 @@ DB와 ERD <br>
 ## 📖 파일명 설명 및 개발일정
 [[📑 파일명 설명 및 개발일정]](https://docs.google.com/spreadsheets/d/1f2Vgb-qmd-GQKiG3kfBYp12KGKcHwL41/edit?usp=sharing&ouid=106247567413866015973&rtpof=true&sd=true)
 
-<br>
 
 ## 📽️ 작동 영상
 [📹 작동 영상]()
 
-<br>
 
 ## 🗃️ 발표자료
 [[📂 발표자료]](https://www.canva.com/design/DAGB09QYuLw/aAn0IDhyphJN4kNFbcFN7g/edit?utm_content=DAGB09QYuLw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-<br>
 
 ## 📃 화면설계
 [[📑 Figma 확인하기]](https://www.figma.com/file/TJCIsPWBYpiGFq3VZo7aAL/Cozy%26Rest-FURNTIURE?type=design&node-id=12%3A29&mode=design&t=lBsTPDw3kZcSzh4i-1)
